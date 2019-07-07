@@ -1,3 +1,2 @@
-exclude node_modules
-exclude .env
 
+UrlShortenerMicroservice/.env
