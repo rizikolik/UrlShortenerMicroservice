@@ -1,3 +1,6 @@
+
+<html>
+
 <body>
   <div class="container">
     <h2>API Project: URL Shortener Microservice</h2>
